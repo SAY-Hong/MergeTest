@@ -11,6 +11,7 @@
 		B135AE8F2B2617DD00F7FC9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135AE8E2B2617DD00F7FC9F /* ContentView.swift */; };
 		B135AE912B2617DE00F7FC9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B135AE902B2617DE00F7FC9F /* Assets.xcassets */; };
 		B135AE942B2617DE00F7FC9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B135AE932B2617DE00F7FC9F /* Preview Assets.xcassets */; };
+		B1E0A4E42B261A27004A3E71 /* DataTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E0A4E32B261A27004A3E71 /* DataTestView.swift */; };
 		B1E0A4E22B2619A9004A3E71 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E0A4E12B2619A9004A3E71 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		B135AE8E2B2617DD00F7FC9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B135AE902B2617DE00F7FC9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B135AE932B2617DE00F7FC9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1E0A4E32B261A27004A3E71 /* DataTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTestView.swift; sourceTree = "<group>"; };
 		B1E0A4E12B2619A9004A3E71 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 		B135AE9B2B2617F300F7FC9F /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				B1E0A4E32B261A27004A3E71 /* DataTestView.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1E0A4E42B261A27004A3E71 /* DataTestView.swift in Sources */,
 				B135AE8F2B2617DD00F7FC9F /* ContentView.swift in Sources */,
 				B135AE8D2B2617DD00F7FC9F /* TestProjectsApp.swift in Sources */,
 				B1E0A4E22B2619A9004A3E71 /* SwiftUIView.swift in Sources */,
